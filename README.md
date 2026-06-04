@@ -96,6 +96,6 @@ Please wait for that task to finish before starting this one, or confirm you wan
 
 ## Credit
 
-Built by [@vipplovchoudhary](https://x.com/vipplovchoudhary) while building [invoiceno.com](https://invoiceno.com), a free invoice generator for freelancers.
+Built by [vipplovchoudhary](https://github.com/vipplov) while building [invoiceno.com](https://invoiceno.com?utm_source=github&utm_medium=readme&utm_campaign=claude-parallel-work-protocol)
 
 The idea came from needing to ship faster as a solo founder running multiple Claude Code instances at once. No servers, no databases, no CI infrastructure. Just a markdown file.
